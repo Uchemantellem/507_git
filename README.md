@@ -1,2 +1,0 @@
-# 507_git
-Practice
